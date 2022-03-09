@@ -1,0 +1,72 @@
+/*
+font-family: 'MavenPro', sans-serif; 
+font-family: 'Quattrocento', sans-serif; 
+font-family: 'Sriracha', sans-serif; 
+*/
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  max-width: 320px;
+  margin: auto;
+}
+
+header {
+  border-top: solid 8px #57BB6B;
+  background-image: url(../img/fruits.webp);
+  padding-bottom: 100px;
+}
+
+.emojuice {
+  text-align: center;
+  background:rgba(255,255,255, 0.8);
+  color: #57BB6B;
+  margin: 30px;
+  padding-bottom: 18px;
+}
+
+.emojuice h1 {
+  font-family: 'Sriracha', sans-serif; 
+  font-weight: 100;
+  font-size: 44px;
+}
+
+.emojuice p {
+  font-family: 'Quattrocento', sans-serif;
+  font-size: 20px;
+}
+
+.button {
+  color: #FFFFFF;
+  background: #57BB6B;
+  padding: 14px 11px;
+  text-decoration: none;
+  font-family: 'MavenPro', sans-serif; 
+  font-size: 18px;
+  border-radius: 14px; 
+}
+
+.button-light {
+  color: #57BB6B;
+  background: #FFFFFF;
+  padding: 14px 11px;
+  text-decoration: none;
+  font-family: 'MavenPro', sans-serif; 
+  border-radius: 14px; 
+}
+
+.container {
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+img {
+  max-width: 100%;
+  height: auto;       
+}
