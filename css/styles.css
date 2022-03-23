@@ -99,6 +99,8 @@ h3 {
 
 .presentation-text p {
   font-family: 'Quattrocento', sans-serif; 
+  text-align: center;
+  font-size: 14px;
 }
 
 .banane {
@@ -107,8 +109,14 @@ background-color: #FFF8D7;
 background-color: #C4F2AD;
 }.cafe {
 background-color: #D3C6B2;
-}.strawberyy {
+}.strawberry {
 background-color: #F7A4B4;
 }
 
+.lien-site-kiwi {
+  text-decoration: underline; 
+  font-family: 'Maven Pro', sans-serif; 
+  color: black; 
+  font-size: 14px;
+}
 
