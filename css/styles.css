@@ -85,10 +85,25 @@ h2 {
   text-align: center;
   font-family: 'Maven Pro', sans-serif; 
 }
-
 .emoji {
   display: flex;
   flex-direction: row;
   justify-content: center;
   width: 5%;
 }
+
+h3 {
+  font-family: 'Sriracha', sans-serif;
+}
+
+.banane {
+background-color: #FFF8D7;
+}.kiwi {
+background-color: #C4F2AD;
+}.cafe {
+background-color: #D3C6B2;
+}.ichigo {
+background-color: #F7A4B4;
+}
+
+
