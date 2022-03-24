@@ -47,6 +47,7 @@ header {
   font-family: 'Maven Pro', sans-serif; 
   font-size: 18px;
   border-radius: 14px; 
+  margin-bottom: 18px;
 }
 
 .button-light {
@@ -58,7 +59,7 @@ header {
   border-radius: 14px; 
 }
 
-.container {
+.button-container {
   display: flex;
     flex-direction: column;
     justify-content: center;
