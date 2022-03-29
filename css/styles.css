@@ -84,11 +84,12 @@ footer p {
 
 footer h2 {
   color: #57BB6B;
+  text-align: center;
 }
 
 h2 {
-  text-align: center;
   font-family: 'Maven Pro', sans-serif; 
+  font-size: 24px;
 }
 .emoji-container {
   display: flex;
@@ -103,7 +104,8 @@ h2 {
 }
 
 h3 {
-  font-family: 'Sriracha', sans-serif;
+  font-family: 'Quattrocento', sans-serif;
+  font-size: 18px; 
 }
 
 .product {
@@ -144,10 +146,17 @@ h3 {
 .presentation-kiwi img {
   width: 40px;
 }
+
 .description-kiwi {
   background: #57BB6B;
+  color: #FFFFFF;
   text-align: justify left;
   padding: 30px 60px;
+  font-size: 16px;
+}
+
+.description-kiwi h2 {
+  padding: 19px 0px;
 }
 
 .other-products-section {
@@ -158,9 +167,7 @@ h3 {
 
 .round-border {
   background: #ffffff;
-  padding: 40px;
-  border-radius: 50%;
-  margin: 30px 50px;
+  padding: 60px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
